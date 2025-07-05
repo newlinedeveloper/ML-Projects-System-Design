@@ -5,7 +5,7 @@ Machine learning projects and System design approach
 - [x] Design Personalized News feed system
 - [x] Design Google street blurring system
 - [x] Design Similar listing on rental platform system
-- [ ] Design Youtube video search
+- [x] Design Youtube video search
 - [ ] Design event recommendation system
 - [ ] Harmful content detection system
 - [ ] Design Video recommendation system
